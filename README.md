@@ -58,8 +58,8 @@ public class PietroAmorim {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pietro-Amorim&show_icons=true&theme=vue-dark&bg_color=000000&title_color=00C853&icon_color=00C853&text_color=B0BEC5&border_color=00C853"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro-Amorim&layout=compact&langs_count=7&theme=vue-dark&bg_color=000000&title_color=00C853&text_color=B0BEC5&border_color=00C853"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=japa-desenvolvedor&show_icons=true&theme=vue-dark&bg_color=000000&title_color=00C853&icon_color=00C853&text_color=B0BEC5&border_color=00C853"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=japa-desenvolvedor&layout=compact&langs_count=7&theme=vue-dark&bg_color=000000&title_color=00C853&text_color=B0BEC5&border_color=00C853"/>
 </div>
 
 ---
