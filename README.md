@@ -84,6 +84,6 @@ public class PietroAmorim {
 
 ## 📫 Como Me Encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/pietro-amorim  )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/pietro-amorim)
 [![Gmail](https://img.shields.io/badge/Gmail-00C853?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pietro.amorim.fernandes.2007@gmail.com)
 
