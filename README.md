@@ -4,11 +4,13 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/763ae758-75fc-4d00-b5a5-0bbc3c3de36d" alt="Demo" />
+  <img src="https://github.com/user-attachments/assets/5ec804c3-287f-4871-b3fa-d0704c845de5" alt="Demo" />
 </p>
 
 
-<!-- Snake Animation con enlace a Platane/snk -->
+
+<!-- Snake Animation con en!
+lace a Platane/snk -->
 <a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">
   <img
     alt="github contribution snake dark"
