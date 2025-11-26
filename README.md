@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="[https://github.com/user-attachments/assets/3eec475a-cfdf-4002-957c-0503d037bed5](https://github.com/user-attachments/assets/c21e7c3d-bde0-4ab6-b75d-43b9b230c0ca)" width="600" />
-  <p>Art by Lesnikov Aleksei</p>
-</div>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=2000&color=00C853&center=true&vCenter=true&width=600&height=80&lines=Bem-Vindo+ao+Perfil+do+Japones;Desenvolvedor+Full+Stack;Transformo+caos+em+c%C3%B3digo+limpo;+Entre+em+contato." alt="Bem vindo ao perfil do Japonês" />
