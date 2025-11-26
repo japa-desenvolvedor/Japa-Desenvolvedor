@@ -1,8 +1,7 @@
-
-
-<p align="center">
-  <img src="[https://github.com/user-attachments/assets/3eec475a-cfdf-4002-957c-0503d037bed5](https://github.com/user-attachments/assets/c21e7c3d-bde0-4ab6-b75d-43b9b230c0ca)" alt="Demo" />
-</p>
+<div align="center">
+  <img src="[https://github.com/user-attachments/assets/3eec475a-cfdf-4002-957c-0503d037bed5](https://github.com/user-attachments/assets/c21e7c3d-bde0-4ab6-b75d-43b9b230c0ca)" width="600" />
+  <p>Art by Lesnikov Aleksei</p>
+</div>
 
 
 <div align="center">
