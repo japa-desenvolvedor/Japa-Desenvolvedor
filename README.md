@@ -4,10 +4,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ec804c3-287f-4871-b3fa-d0704c845de5" alt="Demo" />
+  <img src="https://github.com/user-attachments/assets/3714ccb5-1763-404a-a5cd-490de00e7bf8" alt="Demo" />
 </p>
-
-
 
 <!-- Snake Animation con en!
 lace a Platane/snk -->
