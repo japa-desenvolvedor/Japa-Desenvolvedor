@@ -2,6 +2,9 @@
   <img src="https://github.com/user-attachments/assets/3eec475a-cfdf-4002-957c-0503d037bed5" alt="Demo" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/84a5418e-34a0-4e35-b40f-b1aabcab169f" alt="Demo" />
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=2000&color=00C853&center=true&vCenter=true&width=600&height=80&lines=Bem-Vindo+ao+Perfil+do+Japones;Desenvolvedor+Full+Stack;Transformo+caos+em+c%C3%B3digo+limpo;+Entre+em+contato." alt="Bem vindo ao perfil do Japonês" />
