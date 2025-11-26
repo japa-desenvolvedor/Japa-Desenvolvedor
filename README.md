@@ -32,6 +32,8 @@ public class PietroAmorim {
         System.out.println("Com a missão de: " + objetivo);
     }
 }
+
+```
 🛠️ Stack Tecnológica - Minhas Ferramentas de Trabalho
 🌱 Linguagens Principais que eu Adoro Codificar
 
@@ -133,4 +135,3 @@ Sinta-se à vontade para entrar em contato, trocar ideias ou discutir oportunida
 <div align="center">
 Feito com ❤️ por Pietro Amorim
 </div>
-```
