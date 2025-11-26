@@ -69,6 +69,41 @@ public class PietroAmorim {
 
 ---
 
+## 🛠️ Stack Tecnológica
+
+### 🌱 Linguagens Principais
+<div style="display: flex; gap: 10px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+</div>
+
+### 🍃 Front-end
+<div style="display: flex; gap: 10px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+</div>
+
+### 🌳 Back-end
+<div style="display: flex; gap: 10px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+</div>
+
+### 🏡 Banco de Dados
+<div style="display: flex; gap: 10px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</div>
+
+### ⚙️ DevOps & Ferramentas
+<div style="display: flex; gap: 10px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</div>
+
+
 ## 💡 Projetos Destacados
 
 | Projeto | Tecnologias | Descrição | Status |
@@ -84,11 +119,4 @@ public class PietroAmorim {
 - 🏗️ Arquitetura de Microsserviços
 - 🧠 Inteligência Artificial aplicada
 - ⚡ Otimização de desempenho em Flutter
-
----
-
-## 📫 Como Me Encontrar
-
-[![LinkedIn](www.linkedin.com/in/pietro-amorim-fernandes-9812b238b?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/pietro-amorim  )
-[![Gmail](https://img.shields.io/badge/Gmail-00C853?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pietro.amorim.fernandes.2007@gmail.com)
 
