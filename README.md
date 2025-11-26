@@ -34,20 +34,6 @@ public class PietroAmorim {
 }
 ```
 
-public class PietroAmorim {
-    public static void main(String[] args) {
-        String nome = "Pietro Amorim";
-        String[] habilidades = {"Java", "Flutter", "JavaScript", "Angular"};
-        String objetivo = "Criar soluções inovadoras que impactam vidas";
-        
-        System.out.println("Desenvolvedor Full Stack com foco em:");
-        for(String skill : habilidades) {
-            System.out.println("🟢 " + skill);
-        }
-        System.out.println("Objetivo: " + objetivo);
-    }
-}
-
 ## 🛠️ Stack Tecnológica
 
 ### 🌱 Linguagens Principais
