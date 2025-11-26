@@ -34,40 +34,19 @@ public class PietroAmorim {
 }
 ```
 
-## 🛠️ Stack Tecnológica
-
-### 🌱 Linguagens Principais
-![Java](https://img.shields.io/badge/Java-00C853?style=for-the-badge&logo=openjdk&logoColor=000000)
-![Dart](https://img.shields.io/badge/Dart-00C853?style=for-the-badge&logo=dart&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-00C853?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-00C853?style=for-the-badge&logo=typescript&logoColor=000000)
-
-### 🍃 Front-end
-![Angular](https://img.shields.io/badge/Angular-00C853?style=for-the-badge&logo=angular&logoColor=000000)
-![Flutter](https://img.shields.io/badge/Flutter-00C853?style=for-the-badge&logo=flutter&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-00C853?style=for-the-badge&logo=javascript&logoColor=000000)
-
-### 🌳 Back-end
-![Node.js](https://img.shields.io/badge/Node.js-00C853?style=for-the-badge&logo=node.js&logoColor=000000)
-
-### 🏡 Banco de Dados
-![MongoDB](https://img.shields.io/badge/MongoDB-00C853?style=for-the-badge&logo=mongodb&logoColor=000000)
-![MySQL](https://img.shields.io/badge/MySQL-00C853?style=for-the-badge&logo=mysql&logoColor=000000)
-
-### ⚙️ DevOps & Ferramentas
-![Git](https://img.shields.io/badge/Git-00C853?style=for-the-badge&logo=git&logoColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=000000)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pietro-Amorim&show_icons=true&theme=vue-dark&bg_color=000000&title_color=00C853&icon_color=00C853&text_color=B0BEC5&border_color=00C853"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro-Amorim&layout=compact&langs_count=7&theme=vue-dark&bg_color=000000&title_color=00C853&text_color=B0BEC5&border_color=00C853"/>
-</div>
-
----
+public class PietroAmorim {
+    public static void main(String[] args) {
+        String nome = "Pietro Amorim";
+        String[] habilidades = {"Java", "Flutter", "JavaScript", "Angular"};
+        String objetivo = "Criar soluções inovadoras que impactam vidas";
+        
+        System.out.println("Desenvolvedor Full Stack com foco em:");
+        for(String skill : habilidades) {
+            System.out.println("🟢 " + skill);
+        }
+        System.out.println("Objetivo: " + objetivo);
+    }
+}
 
 ## 🛠️ Stack Tecnológica
 
