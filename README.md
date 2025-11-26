@@ -3,7 +3,6 @@
 </div>
 
 <!-- Snake Animation con enlace a Platane/snk -->
-
 <a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">
   <img
     alt="github contribution snake dark"
@@ -11,12 +10,10 @@
   />
 </a>
 
-🌿 Sobre Mim
-code
-Java
-download
-content_copy
-expand_less
+
+## 🌿 Sobre Mim
+
+```java
 public class PietroAmorim {
     public static void main(String[] args) {
         String nome = "Pietro Amorim";
@@ -30,70 +27,63 @@ public class PietroAmorim {
         System.out.println("Objetivo: " + objetivo);
     }
 }
-🛠️ Stack Tecnológica
-🌱 Linguagens Principais
+```
 
-![alt text](https://img.shields.io/badge/Java-00C853?style=for-the-badge&logo=openjdk&logoColor=000000)
+## 🛠️ Stack Tecnológica
 
+### 🌱 Linguagens Principais
+![Java](https://img.shields.io/badge/Java-00C853?style=for-the-badge&logo=openjdk&logoColor=000000)
+![Dart](https://img.shields.io/badge/Dart-00C853?style=for-the-badge&logo=dart&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-00C853?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-00C853?style=for-the-badge&logo=typescript&logoColor=000000)
 
-![alt text](https://img.shields.io/badge/Dart-00C853?style=for-the-badge&logo=dart&logoColor=000000)
+### 🍃 Front-end
+![Angular](https://img.shields.io/badge/Angular-00C853?style=for-the-badge&logo=angular&logoColor=000000)
+![Flutter](https://img.shields.io/badge/Flutter-00C853?style=for-the-badge&logo=flutter&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-00C853?style=for-the-badge&logo=javascript&logoColor=000000)
 
+### 🌳 Back-end
+![Node.js](https://img.shields.io/badge/Node.js-00C853?style=for-the-badge&logo=node.js&logoColor=000000)
 
-![alt text](https://img.shields.io/badge/JavaScript-00C853?style=for-the-badge&logo=javascript&logoColor=000000)
+### 🏡 Banco de Dados
+![MongoDB](https://img.shields.io/badge/MongoDB-00C853?style=for-the-badge&logo=mongodb&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-00C853?style=for-the-badge&logo=mysql&logoColor=000000)
 
+### ⚙️ DevOps & Ferramentas
+![Git](https://img.shields.io/badge/Git-00C853?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=000000)
 
-![alt text](https://img.shields.io/badge/TypeScript-00C853?style=for-the-badge&logo=typescript&logoColor=000000)
+---
 
-🍃 Front-end
+## 📊 Estatísticas do GitHub
 
-![alt text](https://img.shields.io/badge/Angular-00C853?style=for-the-badge&logo=angular&logoColor=000000)
-
-
-![alt text](https://img.shields.io/badge/Flutter-00C853?style=for-the-badge&logo=flutter&logoColor=000000)
-
-
-![alt text](https://img.shields.io/badge/JavaScript-00C853?style=for-the-badge&logo=javascript&logoColor=000000)
-
-🌳 Back-end
-
-![alt text](https://img.shields.io/badge/Node.js-00C853?style=for-the-badge&logo=node.js&logoColor=000000)
-
-🏡 Banco de Dados
-
-![alt text](https://img.shields.io/badge/MongoDB-00C853?style=for-the-badge&logo=mongodb&logoColor=000000)
-
-
-![alt text](https://img.shields.io/badge/MySQL-00C853?style=for-the-badge&logo=mysql&logoColor=000000)
-
-⚙️ DevOps & Ferramentas
-
-![alt text](https://img.shields.io/badge/Git-00C853?style=for-the-badge&logo=git&logoColor=000000)
-
-
-![alt text](https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=000000)
-
-📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=japa-desenvolvedor&show_icons=true&theme=vue-dark&bg_color=000000&title_color=00C853&icon_color=00C853&text_color=B0BEC5&border_color=00C853"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=japa-desenvolvedor&layout=compact&langs_count=7&theme=vue-dark&bg_color=000000&title_color=00C853&text_color=B0BEC5&border_color=00C853"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pietro-Amorim&show_icons=true&theme=vue-dark&bg_color=000000&title_color=00C853&icon_color=00C853&text_color=B0BEC5&border_color=00C853"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro-Amorim&layout=compact&langs_count=7&theme=vue-dark&bg_color=000000&title_color=00C853&text_color=B0BEC5&border_color=00C853"/>
 </div>
 
-💡 Projetos Destacados
-Projeto	Tecnologias	Descrição	Status
-BarryAI	HTML, CSS, JS	Plataforma de IA conversacional	🟢 Produção
-GuiaPress	JavaScript, Node.js	Sistema de gerenciamento de conteúdo	🟡 Em desenvolvimento
-Flutter Apps	Flutter, Dart	Coleção de aplicativos mobile	🔵 Publicado
-🌱 Atualmente Aprendendo
+---
 
-🏗️ Arquitetura de Microsserviços
+## 💡 Projetos Destacados
 
-🧠 Inteligência Artificial aplicada
+| Projeto | Tecnologias | Descrição | Status |
+|---------|------------|-----------|--------|
+| [BarryAI](https://github.com/Pietro-Amorim/BarryAI  ) | HTML, CSS, JS | Plataforma de IA conversacional | 🟢 Produção |
+| [GuiaPress](https://github.com/Pietro-Amorim/GuiaPress  ) | JavaScript, Node.js | Sistema de gerenciamento de conteúdo | 🟡 Em desenvolvimento |
+| [Flutter Apps](https://github.com/Pietro-Amorim/Mobile  ) | Flutter, Dart | Coleção de aplicativos mobile | 🔵 Publicado |
 
-⚡ Otimização de desempenho em Flutter
+---
 
-📫 Como Me Encontrar
+## 🌱 Atualmente Aprendendo
 
-![alt text](https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=000000)
+- 🏗️ Arquitetura de Microsserviços
+- 🧠 Inteligência Artificial aplicada
+- ⚡ Otimização de desempenho em Flutter
 
+---
 
-![alt text](https://img.shields.io/badge/Gmail-00C853?style=for-the-badge&logo=gmail&logoColor=000000)
+## 📫 Como Me Encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/pietro-amorim  )
+[![Gmail](https://img.shields.io/badge/Gmail-00C853?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pietro.amorim.fernandes.2007@gmail.com)
+
