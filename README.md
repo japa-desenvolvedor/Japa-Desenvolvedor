@@ -1,4 +1,8 @@
-
+code
+Markdown
+download
+content_copy
+expand_less
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=2000&color=00C853&center=true&vCenter=true&width=600&height=80&lines=Bem-Vindo+ao+Perfil+do+Japones%F0%9F%8C%B1;Desenvolvedor+Full+Stack%F0%9F%92%BB;Transformo+caos+em+c%C3%B3digo+limpo%F0%9F%A7%B1;+Entre+em+contato!%F0%9F%93%A9" alt="Bem vindo ao perfil do Japonês" />
 </div>
