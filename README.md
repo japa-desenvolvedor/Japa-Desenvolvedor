@@ -83,3 +83,7 @@ public class PietroAmorim {
 - 🏗️ Arquitetura de Microsserviços
 - 🧠 Inteligência Artificial aplicada
 - ⚡ Otimização de desempenho em Flutter
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/763ae758-75fc-4d00-b5a5-0bbc3c3de36d" alt="Demo" />
+</p>
