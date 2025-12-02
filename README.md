@@ -94,7 +94,6 @@ public class PietroAmorim {
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/mermaid-js/mermaid/develop/docs/assets/img/logo.png"/>
 </div>
 
 
