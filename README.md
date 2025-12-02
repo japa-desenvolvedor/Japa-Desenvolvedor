@@ -35,40 +35,22 @@ public class PietroAmorim {
 }
 ```
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack Tecnológica 
 
-### 🌱 Linguagens Principais
-<div style="display: flex; gap: 10px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-</div>
+###🌱 Linguagens Principais
+<div style="display: flex; gap: 10px;"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <!-- Adicionadas --> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> </div>
 
 ### 🍃 Front-end
-<div style="display: flex; gap: 10px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-</div>
+<div style="display: flex; gap: 10px;"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/> </div>
 
 ### 🌳 Back-end
-<div style="display: flex; gap: 10px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-</div>
+<div style="display: flex; gap: 10px;"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> <!-- Adicionados --> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/> </div>
 
 ### 🏡 Banco de Dados
-<div style="display: flex; gap: 10px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-</div>
+<div style="display: flex; gap: 10px;"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <!-- Adicionados --> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/> </div>
 
 ### ⚙️ DevOps & Ferramentas
-<div style="display: flex; gap: 10px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</div>
-
+<div style="display: flex; gap: 10px;"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <!-- Adicionados --> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/> </div>
 
 ## 💡 Projetos Destacados
 
