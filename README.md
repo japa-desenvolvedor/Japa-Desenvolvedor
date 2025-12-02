@@ -39,6 +39,37 @@ public class PietroAmorim {
 
 ## 🛠️ Stack Tecnológica
 
+<div align="center">
+
+### 🌱 Linguagens Principais
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,dart,js,ts,py&theme=dark" />
+</a>
+
+### 🍃 Front-end
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=angular,flutter,react,html,css,sass&theme=dark" />
+</a>
+
+### 🌳 Back-end
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,django&theme=dark" />
+</a>
+
+### 🏡 Banco de Dados
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongo,mysql,firebase&theme=dark" />
+</a>
+
+### ⚙️ DevOps & Ferramentas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,arduino,vscode,netbeans&theme=dark" />
+</a>
+
+</div>
+
+## 🛠️ Stack Tecnológica
+
 ### 🌱 Linguagens Principais
 
 <div style="display: flex; gap: 10px;">
