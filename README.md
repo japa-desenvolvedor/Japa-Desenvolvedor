@@ -64,7 +64,9 @@ public class PietroAmorim {
 ### ⚙️ DevOps & Ferramentas
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,arduino,vscode,netbeans&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,arduino,vscode&theme=dark" />
 </a>
+
 
 </div>
 
