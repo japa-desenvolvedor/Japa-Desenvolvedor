@@ -86,3 +86,6 @@ public class PietroAmorim {
 - 🧠 Inteligência Artificial aplicada
 - ⚡ Otimização de desempenho em Flutter
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4686fa3-dcb8-4cf0-b0ca-9a88008d2408" alt="Demo" />
+</p>
