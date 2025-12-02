@@ -49,7 +49,7 @@ public class PietroAmorim {
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 
----
+
 
 ### 🍃 Front-end
 
@@ -63,7 +63,7 @@ public class PietroAmorim {
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
 </div>
 
----
+
 
 ### 🌳 Back-end
 
@@ -72,7 +72,7 @@ public class PietroAmorim {
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 </div>
 
----
+
 
 ### 🏡 Banco de Dados
 
@@ -82,7 +82,7 @@ public class PietroAmorim {
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 </div>
 
----
+
 
 ### ⚙️ DevOps & Ferramentas
 
